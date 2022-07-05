@@ -1,8 +1,6 @@
 package com.google.showcase.v1beta1
 
-import com.bybutter.sisyphus.starter.grpc.transcoding.EnableHttpToGrpcTranscoding
 import org.springframework.boot.autoconfigure.SpringBootApplication
 
 @SpringBootApplication
-@EnableHttpToGrpcTranscoding
 class ShowcaseApplication
