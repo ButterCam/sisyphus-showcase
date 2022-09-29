@@ -19,6 +19,8 @@ repositories {
 
 dependencies {
     implementation("com.bybutter.sisyphus.starter:sisyphus-grpc-server-starter:1.4.0")
+    implementation("io.netty:netty-handler-proxy:4.1.72.Final")
+    implementation("io.netty:netty-codec-http:4.1.72.Final")
     testImplementation(kotlin("test"))
 }
 

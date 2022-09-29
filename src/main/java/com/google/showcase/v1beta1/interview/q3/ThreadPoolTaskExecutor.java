@@ -1,4 +1,4 @@
-package com.google.showcase.v1beta1.interview;
+package com.google.showcase.v1beta1.interview.q3;
 
 import java.util.Random;
 

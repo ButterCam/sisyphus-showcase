@@ -1,4 +1,4 @@
-package com.google.showcase.v1beta1.interview;
+package com.google.showcase.v1beta1.interview.q2;
 
 public class BinaryTreeVisitor {
     // 02-1.遍历二叉树
